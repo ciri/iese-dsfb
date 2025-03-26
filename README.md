@@ -6,8 +6,8 @@
 | Done? | Session  |  Topic |  Relevant Pages |
 |---|---|---|---|
 | ✓ | PRE  | Python  | [Review Python](/notebooks/000-Introduction-to-Python.ipynb) |
-|  | 1  | Introduction to Data Science | [Numpy](/notebooks/010-Numpy.html)  |
-|  | 2  | Image Data I: How Computers See  | Images in Python |
+|  | 1  | [Introduction to Data Science](https://docs.google.com/presentation/d/1zTyDEWQCoNUeVZOm9FEEUZ3YlZPPgC0cDDT8_HuMPLE/edit?usp=sharing) | [Numpy](/notebooks/010-Numpy.ipynb)  |
+|  | 2  | Image Data I: How Computers See  | [Images in Python](/notebooks/100-HowComputersSee.ipynb) |
 |  | 3-4  | Image Data II: Image Analytics  |  Computer Vision, Haiteng Case, Haiteng Assignment |
 |  | 5  | Introduction to Pandas  |  Pandas, Investment Drivers|
 |   | 6  | From data to model I |  AirBnB |
