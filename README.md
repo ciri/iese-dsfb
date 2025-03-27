@@ -5,7 +5,7 @@
 
 | Done? | Session  |  Topic |  Relevant Pages |
 |---|---|---|---|
-|  | 1  | [Introduction to Data Science](https://docs.google.com/presentation/d/1zTyDEWQCoNUeVZOm9FEEUZ3YlZPPgC0cDDT8_HuMPLE/edit?usp=sharing) | [Review Python](/notebooks/000-Introduction-to-Python.ipynb)  |
+| ✓ | 1  | [Introduction to Data Science](https://docs.google.com/presentation/d/1zTyDEWQCoNUeVZOm9FEEUZ3YlZPPgC0cDDT8_HuMPLE/edit?usp=sharing) | [Review Python](/notebooks/000-Introduction-to-Python.ipynb)  |
 |  | 2  | Image Data I: How Computers See  | [Numpy](/notebooks/010-Numpy.ipynb) / [Images in Python](/notebooks/100-HowComputersSee.ipynb) |
 |  | 3  | Image Data II: Image Analytics  | [Images in Python](/notebooks/100-HowComputersSee.ipynb)  |
 |  | 4  | Image Data II: Image Analytics  |[Computer Vision](/notebooks/110-ComputerVision.ipynb) , Haiteng Case, Haiteng Assignment |
