@@ -30,3 +30,11 @@ The objectives of this course are (i) to introduce data science, and (ii) to sho
 ### Instructor
 
 [Prof. Enric Junqué de Fortuny](http://ciri.be)
+
+
+### Repository License
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.  
+https://creativecommons.org/licenses/by/4.0/. If you use or adapt this material, please credit: Enric Junqué de Fortuny – IESE Business School. For more details press the button below:
+
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
