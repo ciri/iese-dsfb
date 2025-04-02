@@ -9,8 +9,8 @@
 | ✓ | 2  | Numpy  | [Numpy](/notebooks/010-Numpy.ipynb) / [Images in Python](/notebooks/100-HowComputersSee.ipynb) |
 | ✓ | 3  | [Image Data I: How Computers See](https://docs.google.com/presentation/d/1YyINIBI0fnK1mAGxmDVaY19IwtzNz6ra8qLkPFaJZRg/edit?usp=sharing)  | [Images in Python](/notebooks/100-HowComputersSee.ipynb)  |
 | ✓ | 4  | [Image Data II: Computer Vision](https://docs.google.com/presentation/d/1_mXsWwveUcncoCuL_0hkDvayzYThh2Cvfm15Za5t0jg/edit?usp=sharing)  |[Computer Vision](/notebooks/110-ComputerVision.ipynb) , Haiteng Assignment (on VC) |
-|  | 5  | Introduction to Pandas  |  Pandas, Investment Drivers  |
-|   | 6  | From data to model I |  AirBnB |
+|  | 5  | Introduction to Pandas  |  [Pandas](/notebooks/200-Pandas.ipynb)  |
+|   | 6  | From data to model I |  Investment Drivers, AirBnB |
 |  | 7  | From data to model II |  AirBnB, Assignment |
 |  | 8  | Working with Time Series  |  Time Series in Pandas |
 |  | 9  | Text Data I  |  How Computers Read |
