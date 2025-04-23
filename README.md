@@ -12,12 +12,12 @@
 | ✓ | 5  | [Introduction to Pandas](https://docs.google.com/presentation/d/1wlousJQTHXFtfZN4XJ8_o0UoDSvFvoaygw9qmNqRjxo/edit?usp=sharing)  |  [Pandas](/notebooks/200-Pandas.ipynb)  |
 | ✓  | 6  | Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I.ipynb) |
 | ✓ | 7  | Transactional Data |  [Amazon II](/notebooks/220-Amazon-Part-II.ipynb) |
-|  | 8  | Working with Time Series  |  [Time Series in Pandas](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
-|  | 9  | Text Data I  |  How Computers Read |
+| ✓ | 8  | Working with Time Series  |  [Time Series in Pandas](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
+|  | 9  | Text Data I  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
 |  | 10  | Text Data II  | How Computers Understand |
 
 ### Introduction
-In today’s job market, the role of "data scientist" has become increasingly prominent, blending data analysis with programming and database expertise. While the foundational techniques have existed for decades, the rise of big data, cloud computing, and artificial intelligence have accelerated the growth of data science as a field.
+In today's job market, the role of "data scientist" has become increasingly prominent, blending data analysis with programming and database expertise. While the foundational techniques have existed for decades, the rise of big data, cloud computing, and artificial intelligence have accelerated the growth of data science as a field.
 
 Data science encompasses a wide range of roles that vary by industry, company, and job function. Though the individual skills involved—such as data analysis and programming—aren’t new, what sets data science apart is the integration of these competencies into a unified discipline.
 
