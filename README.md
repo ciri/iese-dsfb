@@ -12,7 +12,7 @@
 | ✓ | 5  | [Introduction to Pandas](https://docs.google.com/presentation/d/1wlousJQTHXFtfZN4XJ8_o0UoDSvFvoaygw9qmNqRjxo/edit?usp=sharing)  |  [Pandas](/notebooks/200-Pandas.ipynb)  |
 | ✓  | 6  | Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I.ipynb) |
 | ✓ | 7  | Transactional Data |  [Amazon II](/notebooks/220-Amazon-Part-II.ipynb) |
-|  | 8  | Working with Time Series  |  Time Series in Pandas |
+|  | 8  | Working with Time Series  |  [Time Series in Pandas](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
 |  | 9  | Text Data I  |  How Computers Read |
 |  | 10  | Text Data II  | How Computers Understand |
 
