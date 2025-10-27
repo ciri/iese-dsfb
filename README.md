@@ -3,6 +3,7 @@
 
 ### Materials
 
+
 | Done? | Session  |  Topic |  Relevant Pages |
 |---|---|---|---|
 | <!-- ✓ -->  | 1  |  Introduction to Data Science <!-- https://docs.google.com/presentation/d/1zTyDEWQCoNUeVZOm9FEEUZ3YlZPPgC0cDDT8_HuMPLE/edit?usp=sharing --> | [Review Python](/notebooks/000-Introduction-to-Python.ipynb)  |
