@@ -10,7 +10,7 @@
 | ✓ | 2  | Numpy  | [Numpy](/notebooks/010-Numpy.ipynb) / [Images in Python](/notebooks/100-HowComputersSee.ipynb) |
 | ✓ | 3  | Image Data I: How Computers See <!-- https://docs.google.com/presentation/d/1YyINIBI0fnK1mAGxmDVaY19IwtzNz6ra8qLkPFaJZRg/edit?usp=sharing -->  | [Images in Python](/notebooks/100-HowComputersSee.ipynb)  |
 | ✓ | 4  | Image Data II: Computer Vision <!-- https://docs.google.com/presentation/d/1_mXsWwveUcncoCuL_0hkDvayzYThh2Cvfm15Za5t0jg/edit?usp=sharing -->  |[Computer Vision](/notebooks/110-ComputerVision.ipynb) , Haiteng Assignment (on VC) |
-|  | 5  | Introduction to Pandas <!-- [Introduction to Pandas](https://docs.google.com/presentation/d/1wlousJQTHXFtfZN4XJ8_o0UoDSvFvoaygw9qmNqRjxo/edit?usp=sharing) -->   |  [Pandas](/notebooks/200-Pandas.ipynb)  |
+|  | 5  | Introduction to Pandas (cheatsheets: [np](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf), [pd1](https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf), [pd2](https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf) <!-- [Introduction to Pandas](https://docs.google.com/presentation/d/1wlousJQTHXFtfZN4XJ8_o0UoDSvFvoaygw9qmNqRjxo/edit?usp=sharing) -->   |  [Pandas](/notebooks/200-Pandas.ipynb)  |
 |   | 6  | Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I.ipynb) |
 |  | 7  | Transactional Data |  [Amazon II](/notebooks/220-Amazon-Part-II.ipynb) |
 |  | 8  | Working with Time Series  |  [Time Series in Pandas](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
