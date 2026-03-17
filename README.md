@@ -26,7 +26,7 @@ At its core, data science involves gathering, analyzing, and interpreting data, 
 
 ### Objectives
 
-The objectives of this course are (i) to introduce data science, and (ii) to show, through examples, how data scientists use the Python language an AI to deliver value to the business.
+The objectives of this course are (i) to introduce data science, and (ii) to show, through examples, how data scientists use Python to deliver value to the business.
 
 ### Instructor
 

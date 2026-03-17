@@ -5,3 +5,4 @@ notebooks/weights
 *.pyc
 slides
 .venv
+html
