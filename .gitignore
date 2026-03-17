@@ -3,3 +3,5 @@ solutions.txt
 resources/tshirts
 notebooks/weights
 *.pyc
+slides
+.venv
