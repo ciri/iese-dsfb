@@ -7,3 +7,4 @@ slides
 .venv
 html
 experiments
+*-in-class.ipynb
