@@ -13,8 +13,7 @@
 | ✓ | 6  | Introduction to Pandas  <!-- [Introduction to Pandas](https://docs.google.com/presentation/d/1wlousJQTHXFtfZN4XJ8_o0UoDSvFvoaygw9qmNqRjxo/edit?usp=sharing) -->   |  [Pandas](/notebooks/200-Pandas.ipynb) (cheatsheets: [np](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf), [pd1](https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf), [pd2](https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf) ) |
 | →  | 7-8  | Transactional Data |   [Amazon](/notebooks/210-Amazon-Part-I-II.ipynb) (plots: [pd](https://pandas.pydata.org/docs/user_guide/visualization.html), [plt](https://matplotlib.org/stable/gallery/index.html), [sns](https://seaborn.pydata.org/examples/index.html)) |
 |  | 9  | GUEST LECTURE | | 
-|  | 10  | Text Data I  |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics-Part-I.ipynb) |
-|  | 11  | Text Data II  | [Airline Text Analytics II](/notebooks/|410-Airline-Text-Analytics-Part-II.ipynb) |
+| → | 8-10  | Text Data I |  [Airline Text Analytics](/notebooks/400-Airline-Text-Analytics.ipynb) |
 |  |  BONUS |  Working with Time Series  |  [Time Series in Pandas](/notebooks/300-Timeseries-Modeling-in-Pandas.ipynb) |
 ### Introduction
 In today's job market, the role of "data scientist" has become increasingly prominent, blending data analysis with programming and database expertise. While the foundational techniques have existed for decades, the rise of big data, cloud computing, and artificial intelligence have accelerated the growth of data science as a field.
